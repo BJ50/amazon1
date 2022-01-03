@@ -1,0 +1,49 @@
+@media (min-width: 320px) and (max-width: 700px) {
+  * {
+    overflow-x: hidden;
+  }
+  .logo img {
+    margin: 5px;
+    height: 5vh;
+    margin-top: 15px;
+  }
+  .bg img {
+    height: 40vh;
+    width: 100%;
+  }
+  .links {
+    display: none;
+  }
+  .search {
+    width: 300px;
+  }
+  .search input {
+    width: 200px;
+    height: 3vh;
+    margin-left: -15px;
+  }
+  .buy {
+    margin-right: -50px;
+  }
+  .buy h6 {
+    font-size: 10px;
+  }
+  .bord {
+    width: 350px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5%;
+  }
+  .bord h1 {
+    width: 300px;
+  }
+  .bord2 {
+    width: 350px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5%;
+  }
+  .bord2 h1 {
+    width: 300px;
+  }
+}
